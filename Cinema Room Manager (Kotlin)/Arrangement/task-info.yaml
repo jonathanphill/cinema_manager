@@ -1,0 +1,15 @@
+type: remote_edu
+files:
+  - name: src/cinema/Cinema.kt
+    visible: true
+    learner_created: false
+  - name: test/CinemaTests.java
+    visible: false
+    learner_created: false
+feedback_link: https://hyperskill.org/projects/138/stages/735/implement#comment
+check_profile: hyperskill_java
+status: Solved
+feedback:
+  message: <html>Correct solution</html>
+  time: "Tue, 24 Dec 2024 03:03:07 UTC"
+record: 1
