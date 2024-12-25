@@ -9,5 +9,8 @@ files:
     learner_created: false
 feedback_link: https://hyperskill.org/projects/138/stages/739/implement#comment
 check_profile: hyperskill_java
-status: Unchecked
-record: -1
+status: Solved
+feedback:
+  message: <html>Correct solution</html>
+  time: "Wed, 25 Dec 2024 15:58:41 UTC"
+record: 5
